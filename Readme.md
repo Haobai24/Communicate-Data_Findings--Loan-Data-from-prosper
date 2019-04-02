@@ -1,7 +1,7 @@
 
 # Effects of Loan Characterics on Borrower's APR
 ## by Hao Jiang Bai
-
+ 
 
 ## Dataset
 
