@@ -17,7 +17,7 @@ This investigation will be analyzing factors that could influence borrower's APR
 
 > Borrowers with different letter ratings were also analyzed. It came out that borrowers with the lowerest rating(HR) received higher APR percentage, and borrower with high rating A(A) received lowers APR percentage. This differentiate groups of people in terms of APR received based on their rating and scores.
 
-
+ 
 
 ## Key Insights for Presentation
 
