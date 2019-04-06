@@ -9,7 +9,7 @@
 This investigation will be analyzing factors that could influence borrower's APR and what loans were taken by what type of borrowers.
 
 > The dataset can be download here: https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1547358770029000
-
+ 
 
 ## Summary of Findings
 
