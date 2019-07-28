@@ -5,7 +5,7 @@
 
 ## Dataset
 
-> The Dataset contains 113,917 loans, each loan has information on each borrower's An annual percentage rate (APR), status, borrowed amount, debt, etc. variables with many missing values were dropped to make the Dataset more accurate. Outliers were also removed to provide more reliable Data.
+> The Dataset contains 113,917 loans, each loan has information on each borrower's annual percentage rate (APR), status, borrowed amount, debt, etc. Variables with missing values were dropped to make the Dataset more accurate. Outliers were also removed to provide more reliable Data.
 This investigation will be analyzing factors that could influence borrower's APR and what loans were taken by what type of borrowers.
 
 > The dataset can be download here: https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1547358770029000
